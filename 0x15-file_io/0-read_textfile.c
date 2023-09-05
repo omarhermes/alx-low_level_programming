@@ -1,6 +1,5 @@
-#include <stdio.h>
+#include "main.h"
 #include <stdlib.h>
-#include "holberton.h"
 
 /**
  * read_textfile - that reads a text file and prints
